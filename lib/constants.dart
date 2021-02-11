@@ -1,0 +1,55 @@
+const Vehicle_DATA = [
+  {
+    "name":"Civic",
+    "brand":"Honda",
+    "price":1253,
+    "image":"civic.png"
+  },{
+    "name":"YAudi",
+    "brand":"Audi",
+    "price":1520,
+    "image":"Audi.png"
+  },
+  {
+    "name":"Benz",
+    "brand":"Mercedes Benz",
+    "price":1230,
+    "image":"Benz.png"
+  },
+  {
+    "name":"BMW i8",
+    "brand":"BMW",
+    "price":1460,
+    "image":"Bmw.png"
+  },
+  {
+    "name":"Bugatti",
+    "brand":"Bugatti",
+    "price":1530,
+    "image":"Bugatti.png"
+  },
+  {
+    "name":"Ferrari",
+    "brand":"Ferrari",
+    "price":15236,
+    "image":"Ferrari.png"
+  },
+  {
+    "name":"Hyundai",
+    "brand":"Hyundai",
+    "price":1530,
+    "image":"Hyundai.png"
+  },
+  {
+    "name":"Mercedes",
+    "brand":"Mercedes",
+    "price":1523,
+    "image":"Mercedes.png"
+  },
+  {
+    "name":"Altis",
+    "brand":"Toyota",
+    "price":1536,
+    "image":"Toyota.png"
+  }
+];
